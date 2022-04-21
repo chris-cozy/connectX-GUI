@@ -1,6 +1,6 @@
 # connectXGui: connect 4 with a twist  🎮 
 <h2>Description</h2>
-My ConnectX project. It's similar to Connect5 but customizable. With this project, the user has control over board customization. The implementation makes use of the Model View Controller schema, as well as JavaSwing in order to produce a GUI for playing. There are two implementations for this project, labeled GameBoard and GameBoardMem. The difference between them is the memory efficiency of the program.
+My ConnectX project. It's similar to Connect5 but customizable, the user has control over board customization. Instead of being played through the terminal, this version's implementation makes use of the Model View Controller schema, as well as JavaSwing in order to produce a GUI for playing. There are two implementations for this project, labeled GameBoard and GameBoardMem. The difference between them is the memory efficiency of the program.
 <br>
 GameBoard makes use of a 2D char array for implementation.
 <br>
