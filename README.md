@@ -8,7 +8,6 @@ GameBoardMem makes use of hashmaps for implementation, and is the more efficient
 <br>
 
 <h2>Installation</h2>
-<br>
 The project can be compiled using the provided Makefile, then run.
 <br>
 <h2>Notes</h2>
