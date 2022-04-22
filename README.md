@@ -10,8 +10,13 @@ GameBoardMem makes use of hashmaps for implementation, and is the more efficient
 <h2>Installation</h2>
 The project can be compiled using the provided Makefile, then run.
 <br>
+<h2>Tech Stack</h2>
+<div id ="badges">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelliJ" alt="intelliJ" width="40" height="40">
+</div>
 <h2>Notes</h2>
-<br>
 GameBoard and GameBoardMem are both implementations of the interface IGameBoard, and extensions of AbsGameBoard. 
 <br>
 AbsGameBoard overwrites the toString() method, which displays the gameboard in the terminal.
